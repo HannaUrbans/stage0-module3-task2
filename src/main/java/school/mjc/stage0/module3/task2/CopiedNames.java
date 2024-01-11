@@ -10,5 +10,10 @@ public class CopiedNames {
         int variables = 5000;
         int variables2 = 7000;
         int value3 = 90000;
+        int myInt = 100000;
+        int myInteger = 1000000;
+        int myVar = 1234567;
+        int myInteger2 = 1234567;
+    System.out.println(variable+variable2+value+variable3+value2+variables+variables2+value3+myInt+myInteger+myVar+myInteger2);
     }
 }
